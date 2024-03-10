@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470403977853",
+    "project_id": "trabalhoviagem-e7e10",
+    "storage_bucket": "trabalhoviagem-e7e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470403977853:android:e154961e4afc52e3b1d714",
+        "android_client_info": {
+          "package_name": "com.example.projetotrabalho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGkx_3utkWvCYcItYDuINuaClVo_LtPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
